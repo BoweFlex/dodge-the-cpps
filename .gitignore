@@ -1,1 +1,3 @@
 requirements_sentinel.txt
+compile_commands.json
+.sconsign.dblite
